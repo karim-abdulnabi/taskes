@@ -33,6 +33,6 @@ for name in names:
 opensourselanguage = ["javascript" , "python" , "java" , "php" , "c++" , "R" ,
                       "c#" , "swift" , "scala" , "Ruby"]
 
+compiled_language = [ "C", "C++", "C#", "CLEO", "COBOL", ]
 
-
-
+interpreted_language = ["JavaScript", "Perl", "Python", "BASIC"]
